@@ -1,0 +1,8 @@
+[package]
+name = "sege"
+version = "0.1.0"
+authors = ["Nikita Venevitin <venevitinnikita@gmail.com>"]
+
+[dependencies]
+gl = "*"
+sdl2 = "*"
